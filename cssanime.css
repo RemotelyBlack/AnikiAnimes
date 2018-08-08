@@ -1,0 +1,28 @@
+{
+  margin: 0;
+  padding: 0;
+}
+
+.btn-anime {
+  background-color: #00acee;
+  border-color: #009ad5;
+}
+
+.btn-movies {
+  background-color: #3399ff;
+  border-color: #000000;
+}
+
+.btn-genre {
+  background-color: #3399ff;
+  border-color: #000000;
+}
+
+.btn-contact {
+  background-color: #3399ff;
+  border-color: #000000;
+}
+
+.btn-outline-success{
+  background-color: #d9b3ff
+}
