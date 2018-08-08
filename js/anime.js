@@ -1,4 +1,4 @@
 
 $('.carousel').carousel({
-  interval: 5
+  interval: 0.1
 })
