@@ -23,6 +23,6 @@
   border-color: #000000;
 }
 
-.btn-outline-success{
-  background-color: #d9b3ff
+#menu button {
+  color: white
 }
