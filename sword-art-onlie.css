@@ -26,29 +26,22 @@ div.desc {
 <body>
 
 <div class="gallery">
-  <a target="_blank" href="images/level.jpg">
-    <img src="images/level.jpg" alt="Cinque Terre" width="300" height="200">
+  <a target="_blank" href="sao.jpg">
+    <img src="sao.jpg" alt="Sword Art" width="300" height="200">
   </a>
   <div class="desc">Subbed</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="forest.jpg">
-    <img src="forest.jpg" alt="Forest" width="300" height="200">
+  <a target="_blank" href="sao2.jpg">
+    <img src="sao2.jpg" alt="Sword Art" width="300" height="200">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Dubbed</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="lights.jpg">
     <img src="lights.jpg" alt="Northern Lights" width="300" height="200">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="mountains.jpg">
-    <img src="mountains.jpg" alt="Mountains" width="300" height="200">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
