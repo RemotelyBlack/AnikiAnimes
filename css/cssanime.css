@@ -3,6 +3,25 @@
   padding: 0;
 }
 
+.btn-anime {
+  background-color: #00acee;
+  border-color: #009ad5;
+}
+
+.btn-movies {
+  background-color: #3399ff;
+  border-color: #000000;
+}
+
+.btn-genre {
+  background-color: #3399ff;
+  border-color: #000000;
+}
+
+.btn-contact {
+  background-color: #3399ff;
+  border-color: #000000;
+}
 .btn-success{
   background-color: #d9b3ff;
   color: white;
@@ -13,12 +32,20 @@
   text-decoration: underline;
   outline-color: #b366ff;
 }
-article {
-    border: 1px solid black;
-    margin: 20px 20px 20px;
-    background-color: Aquamarine;
-}
-p{
-  margin :center;
 
+.btn-outline-success{
+  background-color: #d9b3ff
 }
+.fixthispls{
+  margin: 50px 0px 50px;
+  background-color: FloralWhite;
+}
+
+ul{
+  list-style-type: none;
+  color: black;
+}
+
+
+
+h3.underline
