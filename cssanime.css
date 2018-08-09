@@ -22,7 +22,24 @@
   background-color: #3399ff;
   border-color: #000000;
 }
-
+.btn-success{
+  background-color: #d9b3ff;
+  color: white;
+  outline-color: white;
+}
+.btn-success:hover{
+  background-color: #b366ff;
+  text-decoration: underline;
+  outline-color: #b366ff;
+}
+article {
+    border: 1px solid black;
+    margin: 20px 20px 20px;
+    background-color: Aquamarine;
+}
 .btn-outline-success{
   background-color: #d9b3ff
+}
+.container{
+  background-color: white;
 }
