@@ -32,14 +32,12 @@
   text-decoration: underline;
   outline-color: #b366ff;
 }
-article {
-    border: 1px solid black;
-    margin: 20px 20px 20px;
-    background-color: Aquamarine;
-}
+
 .btn-outline-success{
   background-color: #d9b3ff
 }
-.container{
-  background-color: white;
+.fixthispls{
+  border: 5000px solid black;
+  margin: 20px 20px 20px;
+  background-color: Aquamarine;
 }
